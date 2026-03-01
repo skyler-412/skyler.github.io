@@ -23,7 +23,7 @@ body {
     <h1 class="display-4">🔥 衝刺實驗室</h1>
     <p class="lead">會考 30 → 34 計畫</p>
 
-    <div class="row mt-5">
+ <div class="row mt-5">
         <div class="col-md-4">
             <div class="card p-4">
                 <h3>📘 英文專區</h3>
@@ -31,14 +31,14 @@ body {
             </div>
         </div>
 
-        <div class="col-md-4">
-            <div class="card p-4">
+<div class="col-md-4">
+             <div class="card p-4">
                 <h3>📐 數學專區</h3>
                 <p>相似、圓、三心整理</p>
             </div>
         </div>
 
-        <div class="col-md-4">
+<div class="col-md-4">
             <div class="card p-4">
                 <h3>⚗ 理化專區</h3>
                 <p>功與能完全攻略</p>
@@ -46,7 +46,7 @@ body {
         </div>
     </div>
 
-    <footer class="mt-5">
+ <footer class="mt-5">
         <p>© 2026 衝刺實驗室</p>
     </footer>
 </div>
